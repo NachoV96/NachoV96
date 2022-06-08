@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @NachoV96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NachoV96/NachoV96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋Hola soy@NachoV96 
+-👀Me interesan los desafios, el continuo aprendizaje y cocinar.
+-🌱Actualmente estoy cursando la carrera de Analista en Sistemas. Dentro de mis conocimientos estan html, css, Jasvascript, y php.
+-💞Busco colaborar en desarrollo de proyectos, ampliar mi experiencia laboral y en lo posible profundizar mis conocimientos de UX ya que me resulto sumamente atractivo e interesante.
+-📱Pueden contactarme via movil (+54 1161388985) o via mail nachovargaz.96@gmail.com
